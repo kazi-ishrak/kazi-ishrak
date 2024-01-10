@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Kazi Ishrak Hossain</h1>
 
-<h1 align="center">Hi, I'm Kazi Ishrak Hossain</h1>
+
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=200&size=18&duration=3000&vCenter=true&multiline=true&random=false&width=435&height=60&lines=A+passionate+Software+Developer;from+Bangladesh" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=200&size=18&duration=3000&vCenter=true&multiline=true&random=false&width=435&height=60&lines=A+passionate+Software+Developer;from+Bangladesh." alt="Typing SVG" />
 </a>
 
 <img align="right" alt="Coding" width="300"
